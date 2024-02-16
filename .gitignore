@@ -1,3 +1,10 @@
+# Self files and directories
+2021.deeplearning/
+content/
+.github/
+*.yml
+intro.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
